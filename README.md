@@ -1,6 +1,6 @@
-# GettingAndCleaningData
+# Getting And Cleaning Data
 
-To eventually come up with a tidy data set for later analysis, all requirements below need to be fulfilled:
+To eventually come up with a tidy data set for later analysis in the project, all requirements below need to be fulfilled:
 1.	Merges the training and the test sets to create one data set.
 2.	Extracts only the measurements on the mean and standard deviation for each measurement.
 3.	Uses descriptive activity names to name the activities in the data set
